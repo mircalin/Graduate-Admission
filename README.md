@@ -1,4 +1,4 @@
-#New User Travel Prediction Classifier Tool
+##New User Travel Prediction Classifier Tool
 
 1.	Topic:  Airbnb uses an online platform as a marketplace to provide hospitality services to travelers around the world that needs a place to stay. Airbnb provides such services in a form of a short-term lodging lease. Airbnb allows users to book unique homes such as apartment rentals, homestays, condos, townhouses, and hotel rooms; this allows users to experience the city as a local. A vast amount of data is collected on these users. This data be used to create machine learning tools to market to users. This project is proposing using big data analytics tools to analyze user behaviors; to make a prediction of which destination will a new guest book their first travel experience? Implementing Machine learning techniques shall be very effective in extracting knowledge from the data sets.
 
